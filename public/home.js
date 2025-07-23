@@ -117,7 +117,16 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>It our priority to keep and value our customer policies.</p>
+            <p>Welcome, Fans! 🎉
+We’re thrilled to have you here and be part of this amazing community. Whether you’re a long-time supporter or new to the fandom, your energy, passion, and support mean the world to us.
+Let’s make this space a positive and respectful environment for everyone.Please remember:
+✅ Be kind and respectful to each other
+✅ No hate speech, bullying, or harassment
+✅ No spamming, inappropriate content, or rule violations
+✅ Follow all community guidelines and platform rules
+We’re here to celebrate together—so let’s keep the vibes high and the community strong. Thank you for being part of this journey. Let the good times roll!
+With appreciation,
+[HOLLYWOOD MANAGEMENT].</p>
           </div>
         `
         break
